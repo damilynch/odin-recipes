@@ -1,2 +1,2 @@
 # odin-recipes
-This is a simpe website to demonstrate my undersatnding of HTML. 
+This is a simpe website to demonstrate my understanding of HTML. 
